@@ -25,15 +25,15 @@ Each analysis can be run using the `uv run` command:
 
 -   **Explore Drug Classes & Mechanisms:**
     ```bash
-    uv run card_loader.py
+    uv run code_examples/card_loader.py
     ```
 -   **Analyze SNP-based Resistance:**
     ```bash
-    uv run snp_analyzer.py
+    uv run code_examples/snp_analyzer.py
     ```
 -   **See Resistance Breakdown for Fluoroquinolones:**
     ```bash
-    uv run resistance_breakdown.py
+    uv run code_examples/resistance_breakdown.py
     ```
 
 ## Scripts
